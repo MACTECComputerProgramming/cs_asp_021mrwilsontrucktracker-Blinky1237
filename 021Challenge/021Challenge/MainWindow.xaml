@@ -38,7 +38,6 @@
         <Label x:Name="labelMilesResult" Content="" HorizontalAlignment="Left" Margin="576,319,0,0" VerticalAlignment="Top" Width="74"/>
         <Label x:Name="labelTotalDaysout" Content="" HorizontalAlignment="Left" Margin="588,350,0,0" VerticalAlignment="Top" Width="202"/>
         <Label x:Name="labelTotalPaydue" Content="" HorizontalAlignment="Left" Margin="588,379,0,0" VerticalAlignment="Top" Width="202"/>
-        <Label x:Name="labelDriverResult_Copy" Content="" HorizontalAlignment="Left" Margin="588,217,0,0" VerticalAlignment="Top" Width="202"/>
         <Label x:Name="labelNumberOfVacationDays" Content="" HorizontalAlignment="Left" Margin="588,424,0,0" VerticalAlignment="Top" Width="202"/>
         <Button Content="Print Driver Ticket" HorizontalAlignment="Left" Margin="598,152,0,0" VerticalAlignment="Top" Width="156" FontSize="15" FontWeight="Bold" FontStyle="Italic" Click="Button_Click"/>
         <Label x:Name="lableMilesResultNmbr" Content="" HorizontalAlignment="Left" Margin="638,319,0,0" VerticalAlignment="Top" Width="69"/>
